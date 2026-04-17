@@ -1,8 +1,8 @@
-> [home](/next)
+> [home](/computing)
 
-![banner](/next-c/photos/banner.png)
+![banner](/core/photos/banner.png)
 
-## The Next C
+## The Core Machine Abstraction
 
 > But at the same time, I mean, nothing lasts forever.  
 > I'm sure some clueless young person will decide how hard can it be and
