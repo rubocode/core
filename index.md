@@ -4,6 +4,7 @@
 
 ## The Next C
 
-> Scientists are human — they're as biased as any other group.
-> But they do have one great advantage in that science is a self-correcting process.  
-> **Cyril Ponnamperuma**
+> After more than two decades of grappling with memory safety issues in C and C++,
+> the software engineering community has reached a consensus.
+> It’s not enough to rely on bug-finding tools.  
+> **DARPA**
